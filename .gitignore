@@ -110,7 +110,7 @@ local.properties
 # *.iml
 # *.ipr
 
-.idea/gitignore
+.idea/.gitignore
 
 # CMake
 cmake-build-*/
