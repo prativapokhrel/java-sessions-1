@@ -2,12 +2,14 @@ package day1;
 
 public class Student {
     /*
-    -> Name
-    -> Email
-    -> Major
-    -> Age
-    -> Address
-    -> Rollno
-    -> Grade
+    -> Name (Sting)
+    -> Email (String)
+    -> Major (String)
+    -> Age (integer)
+    -> Address (String)
+    -> Rollno (String)
+    -> Grade (char)
+    -> Gender (String)
+
      */
 }
